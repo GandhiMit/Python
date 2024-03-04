@@ -25,6 +25,3 @@ print(new_list)
 
 new_list_alt= swap_list_alt(list_1)
 print(new_list_alt)
-
-new_list= swap_List(list_1)
-print(new_list)
